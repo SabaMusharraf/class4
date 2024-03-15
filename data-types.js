@@ -1,0 +1,17 @@
+var myname1 = "Saba Hussain";
+var age_1 = 30;
+var is_jobless = false;
+console.log(myname1, age_1, is_jobless);
+console.log(myname1.toUpperCase());
+var first_Name = "Saba";
+console.log(first_Name);
+console.log("Type:", typeof first_Name);
+var last_Name = "Hussain";
+console.log(last_Name);
+console.log("Type:", typeof last_Name);
+var age_2 = 28;
+console.log(age_2);
+console.log("Type:", typeof age_2);
+var my_number = 3139203;
+console.log(my_number);
+console.log("Type:", typeof my_number);
